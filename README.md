@@ -1,5 +1,4 @@
 # IBM-Applied-Capstone
 Capstone in IBM Data Science Certificate Applied Data Science Capstone Course
 
-Topics Covered:
-- Capstone(coming soon...)
+feel free to email at atharvv08@gmail.com
